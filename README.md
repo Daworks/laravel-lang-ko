@@ -4,7 +4,7 @@
 
 ```
 # PROJECT_DIRECTOR/ 로 이동
-$ git clone https://github.com/yousung/laravel-lang-ko.git resources/lang/ko
+$ git clone https://github.com/Daworks/laravel-lang-ko resources/lang/ko
 $ rm -rf resources/lang/ko/.git
 ```
 
